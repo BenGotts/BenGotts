@@ -8,7 +8,6 @@ I am a motivated Software Engineer with experience in mobile development with Fl
 
 * 🖥️  See my portfolio at [My Website](http://www.bengottschalk.com)
 * ✉️  You can contact me at [benjgottschalk@gmail.com](mailto:benjgottschalk@gmail.com)
-* 🚀  I'm currently working on [My Ride Maintainer](http://www.myridemaintainer.com)
 * 🤝  I'm open to collaborating on anything cybersecurity
 * ⚡  Former North American Record holder in Square-1
 
